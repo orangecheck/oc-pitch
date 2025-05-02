@@ -60,7 +60,7 @@ The first company to aggregate **global stake-weighted reputation data** becomes
 
 ### 5.  Traction & Roadmap
 
-* **Pilot Nostr relay:** 78 % bot reduction with 20 000-sat bonds.  
+* **Pilot Nostr relay:** 78 % bot reduction with 20,000-sat bonds.  
 * **MVP Verify API:** 30 ms median latency across three PoPs.  
 * **Q1 ’26:** 1 M live bonds → \$50 M pooled BTC → \$5 M Bond-Bank float.  
 * **Q4 ’27:** \$8 M ARR, 90 % gross margin, cash-flow positive.
