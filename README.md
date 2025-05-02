@@ -70,11 +70,10 @@ The first company to aggregate **global stake-weighted reputation data** becomes
 
 ### 6.  Team & Ask
 
-* **Wil H.** — ex-Square Crypto, Lightning infra  
-* **Zahid R.** — ex-Twitter anti-spam lead  
-* Advisors: Lightning Labs co-founder, ex-Okta GM  
+* **Wil N.** — Co-Founder OrangeCheck, Infinite Engineer
+* **Zahid I.** — Co-Founder OrangeCheck, Infinite Engineer
 
-**Raise:** \$2 M seed → 18-month runway → Bond Bank launch, SDK rollout, Series A optional.  
+**Raise:** \$1.5 M seed → 18-month runway → Bond Bank launch, SDK rollout, Series A optional.  
 
 ---
 
