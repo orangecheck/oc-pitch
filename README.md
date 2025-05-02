@@ -3,8 +3,7 @@
 ### 0.  The One-Liner
 **OrangeCheck** is the company that created and stewards the open-source [**OrangeCheck Protocol**](github.com/orangecheck/oc-whitepaper). The protocol lets any username, API key or device ID escrow a live Bitcoin deposit—once—then reuse that bonded identity everywhere. Sybil attacks become unaffordable, log-ins become one-click, and reputation is now backed by energy, not paperwork.
 
-> “**Everybody can post a security-deposit; if you cheat, you lose it.   
-> That one primitive disinfects the entire Internet.**”  
+> “**Everybody can post a security-deposit; if you cheat, you lose it. That one primitive disinfects the entire Internet.**”  
 > — *Michael Saylor*
 
 ---
