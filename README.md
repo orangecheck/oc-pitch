@@ -76,5 +76,6 @@ The first company to aggregate **global stake-weighted reputation data** becomes
 
 ---
 
-> **OrangeCheck turns Bitcoin’s thermodynamic certainty into a universal trust layer.**  
+> **OrangeCheck turns Bitcoin’s thermodynamic certainty into a universal trust layer.** 
+> 
 > Stake is the new captcha.  Proof-of-work is now proof-of-person.  Help us mint the reputation standard for the next trillion-user Internet.
