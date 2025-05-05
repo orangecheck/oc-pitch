@@ -1,4 +1,4 @@
-## OrangeCheck — Bitcoin-Collateralised Identity for Every Human, Bot & Machine
+## OrangeCheck — Universal Identity & Reputation, Secured by Bitcoin
 
 ### 0.  The One-Liner
 **OrangeCheck** is the company that created and stewards the open-source [**OrangeCheck Protocol**](https://github.com/orangecheck/oc-whitepaper). The protocol lets any username, API key or device ID escrow a live Bitcoin deposit—once—then reuse that bonded identity everywhere. Sybil attacks become unaffordable, log-ins become one-click, and reputation is now backed by energy, not paperwork.
