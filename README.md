@@ -1,9 +1,11 @@
 # OrangeCheck
-_OrangeCheck turns Bitcoin’s proof-of-work into the world’s first borderless trust layer._
+_OrangeCheck is the world’s first Bitcoin-secured trust layer._
+
+> **OrangeCheck funnels Bitcoin’s unforgeable wall of energy into a live stake—minting an incorruptible trust passport that propels Bitcoin into its next wave of adoption.**
 
 ---
 
-One refundable satoshi bond makes an online account economically *real*; every verification of that bond feeds a proprietary reputation graph that powers three complementary products:
+A refundable Bitcoin bond anchors every account in economic reality, and each live validation of that stake enriches a proprietary reputation graph that drives three complementary products:
 
 | Product | Tagline | Quick Take | Pitch |
 |---------|---------|------------|-------|
