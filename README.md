@@ -11,7 +11,7 @@ A refundable Bitcoin bond anchors every account in economic reality, and each li
 |---------|---------|------------|-------|
 | **OrangeScore** | *Bitcoin-backed credit score for the borderless internet.* | Converts each Bitcoin stake into a censorship-proof reputation score, unlocking borderless credit while sidelining legacy bureaus. | [SCORE.md](./01_SCORE.md) |
 | **OrangeAuth** | *One-click sign-in, secured by a live Bitcoin bond.* | Replaces passwords with an on-chain stake for instant, secure access immune to hacks and censorship. | [AUTH.md](./02_AUTH.md) |
-| **OrangeBadge** | *Flash a portable Bitcoin badge that proves you’re real.* | Compresses Bitcoin’s energy into a tamper-proof ID stamp, making fake accounts costly and restoring authenticity online. | [BADGE.md](./03_BADGE.md) |
+| **OrangeBadge** | *A portable Bitcoin powered badge proving you belong.* | Compresses Bitcoin’s energy into a tamper-proof ID stamp, making fake accounts costly and restoring authenticity online. | [BADGE.md](./03_BADGE.md) |
 
 ---
 
@@ -21,11 +21,11 @@ All OrangeCheck products run on a single bonded-identity backbone—the open-sou
 
 ---
 
-## Why It Matters
+## Why It Matters  
 
-* Bitcoin’s energy makes Sybil attacks *expensive*, turning spam and fraud economics upside-down.  
-* A single bond travels anywhere online, but its **history is sticky**, driving network-effect defensibility.  
-* Every new verifier enlarges the graph, deepening margins across all three revenue streams.
+* **Real People, Real Stakes.** Anchoring every account to a refundable Bitcoin deposit makes fake identities ruinously expensive, slashing spam and online fraud.  
+* **Instant Trust Anywhere.** The same deposit follows a user across sites and apps—granting sign-in, credit, and reputation without passwords, paperwork, or borders.  
+* **Bitcoin’s Adoption Flywheel.** Each verification expands a shared reputation graph and drives fresh on-chain demand, pushing Bitcoin and OrangeCheck forward together.  
 
 ---
 
