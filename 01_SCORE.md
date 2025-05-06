@@ -1,4 +1,4 @@
-# OrangeCheck - Score _("OrangeScore")_
+# OrangeCheck - _("OrangeScore")_
 *Bitcoin-backed credit score for the borderless internet.*
 
 ---
