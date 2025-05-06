@@ -13,8 +13,6 @@ A refundable Bitcoin bond anchors every account in economic reality, and each li
 | **OrangeAuth** | *One-click sign-in, secured by a live Bitcoin bond.* | Replaces passwords with an on-chain stake for instant, secure access immune to hacks and censorship. | [AUTH.md](./02_AUTH.md) |
 | **OrangeBadge** | *Flash a portable Bitcoin badge that proves you’re real.* | Compresses Bitcoin’s energy into a tamper-proof ID stamp, making fake accounts costly and restoring authenticity online. | [BADGE.md](./03_BADGE.md) |
 
-These products share the **same bonded-identity backbone**, compounding data into an a planet-scale reputation moat while monetising three enormous markets—identity verification, frictionless authentication, and reputation analytics.
-
 ---
 
 ## The Open Protocol
