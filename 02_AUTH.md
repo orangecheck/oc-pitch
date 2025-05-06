@@ -1,4 +1,4 @@
-# OrangeCheck - Auth _("OrangeAuth")_
+# OrangeCheck - _("OrangeAuth")_
 *One-click sign-in, secured by a live Bitcoin bond.*
 
 ---
