@@ -17,7 +17,7 @@ A refundable Bitcoin bond anchors every account in economic reality, and each li
 
 ## The Open Protocol
 
-OrangeCheck also authors and maintains the open-source **[OrangeCheck Protocol Whitepaper](https://github.com/orangecheck/oc-whitepaper)**, ensuring the standard remains Bitcoin-only, censorship-resistant, and universally adoptable.
+All OrangeCheck products run on a single bonded-identity backbone—the open-source **[OrangeCheck Protocol Whitepaper](https://github.com/orangecheck/oc-whitepaper)** that we author and steward to keep the standard Bitcoin-only, censorship-resistant, and universally adoptable.
 
 ---
 
