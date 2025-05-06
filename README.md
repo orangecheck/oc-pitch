@@ -9,9 +9,9 @@ A refundable Bitcoin bond anchors every account in economic reality, and each li
 
 | Product | Tagline | Quick Take | Pitch |
 |---------|---------|------------|-------|
-| 📈 **OrangeScore** | *Bitcoin-backed credit score for the borderless internet.* | Converts each Bitcoin stake into a censorship-proof reputation score, unlocking borderless credit while sidelining legacy bureaus. | [SCORE.md](./01_SCORE.md) |
-| 🔑 **OrangeAuth** | *One-click sign-in, secured by a live Bitcoin bond.* | Replaces passwords with an on-chain stake for instant, secure access immune to hacks and censorship. | [AUTH.md](./02_AUTH.md) |
-| 🟠 **OrangeBadge** | *Flash a portable Bitcoin badge that proves you’re real.* | Compresses Bitcoin’s energy into a tamper-proof ID stamp, making fake accounts costly and restoring authenticity online. | [BADGE.md](./03_BADGE.md) |
+| **OrangeScore** | *Bitcoin-backed credit score for the borderless internet.* | Converts each Bitcoin stake into a censorship-proof reputation score, unlocking borderless credit while sidelining legacy bureaus. | [SCORE.md](./01_SCORE.md) |
+| **OrangeAuth** | *One-click sign-in, secured by a live Bitcoin bond.* | Replaces passwords with an on-chain stake for instant, secure access immune to hacks and censorship. | [AUTH.md](./02_AUTH.md) |
+| **OrangeBadge** | *Flash a portable Bitcoin badge that proves you’re real.* | Compresses Bitcoin’s energy into a tamper-proof ID stamp, making fake accounts costly and restoring authenticity online. | [BADGE.md](./03_BADGE.md) |
 
 ---
 
