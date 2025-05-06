@@ -1,5 +1,5 @@
-# OrangeCheck - Badge _("OrangeBadge")_
-*Flash a portable Bitcoin badge that proves you’re real.*
+# OrangeCheck - _("OrangeBadge")_
+*A portable Bitcoin powered badge proving you belong.*
 
 ---
 
