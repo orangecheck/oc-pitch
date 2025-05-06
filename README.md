@@ -29,7 +29,7 @@ OrangeCheck straps a Bitcoin bond to every identity, turning deception into a lo
 
 ## The Open Protocol
 
-All OrangeCheck products run on a single bonded-identity backbone—the open-source **[OrangeCheck Protocol Whitepaper](https://github.com/orangecheck/oc-whitepaper)** that we author and steward to keep the standard Bitcoin-only, censorship-resistant, and universally adoptable.
+All OrangeCheck products run on a single bonded-identity backbone—the open-source **[OrangeCheck Protocol](https://github.com/orangecheck/oc-whitepaper)** that we author and steward to keep the standard Bitcoin-only, censorship-resistant, and universally adoptable.
 
 ---
 
