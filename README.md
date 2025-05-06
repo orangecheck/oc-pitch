@@ -1,11 +1,7 @@
-# OrangeCheck – Universal Identity & Reputation, **Secured by Bitcoin**
-
-> “An online identity isn’t real **until it costs real Bitcoin to exist.**”  
-> — *Michael Saylor*
+# OrangeCheck
+_OrangeCheck turns Bitcoin’s proof-of-work into the world’s first borderless trust layer._
 
 ---
-
-OrangeCheck turns Bitcoin’s proof-of-work into the world’s first **borderless trust layer**.  
 
 One refundable satoshi bond makes an online account economically *real*; every verification of that bond feeds a proprietary reputation graph that powers three complementary products:
 
@@ -34,3 +30,6 @@ OrangeCheck also authors and maintains the open-source **[OrangeCheck Protocol W
 ---
 
 *_Explore the individual pitches above, and join us in cementing Bitcoin as the trust foundation for the next trillion-user internet._*
+
+> “An online identity isn’t real **until it costs real Bitcoin to exist.**”  
+> — *Michael Saylor*
