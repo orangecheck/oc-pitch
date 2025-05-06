@@ -1,11 +1,23 @@
 # OrangeCheck
 _OrangeCheck is the world’s first Bitcoin-secured trust layer._
 
-> **OrangeCheck funnels Bitcoin’s unforgeable wall of energy into a live stake—minting an incorruptible trust passport that propels Bitcoin into its next wave of adoption.**
+## The Pain
+Billions of online accounts are cost-free to fake—fueling bots, spam, fraud, and AI-scaled abuse.
+
+## The Fix
+OrangeCheck straps a Bitcoin bond to every identity, turning deception into a losing trade.
 
 ---
 
-A refundable Bitcoin bond anchors every account in economic reality, and each live validation of that stake enriches a proprietary reputation graph that drives three complementary products:
+<div align="center">
+
+### **“OrangeCheck funnels Bitcoin’s unforgeable wall of energy into a live stake—minting an incorruptible trust passport that propels Bitcoin into its next wave of adoption.”**
+
+</div>
+
+---
+
+## One Bond – Three Products
 
 | Product Pitch | Tagline | Quick Take |
 |---------|---------|------------|
@@ -23,13 +35,17 @@ All OrangeCheck products run on a single bonded-identity backbone—the open-sou
 
 ## Why It Matters  
 
-* **Real People, Real Stakes.** Anchoring every account to a refundable Bitcoin deposit makes fake identities ruinously expensive, slashing spam and online fraud.  
-* **Instant Trust Anywhere.** The same deposit follows a user across sites and apps—granting sign-in, credit, and reputation without passwords, paperwork, or borders.  
-* **Bitcoin’s Adoption Flywheel.** Each verification expands a shared reputation graph and drives fresh on-chain demand, pushing Bitcoin and OrangeCheck forward together.  
+* **Bots get priced out.** Real Bitcoin at stake makes mass fake accounts unprofitable.  
+* **Trust goes borderless.** One refundable bond unlocks sign-in, credit, and reputation everywhere.  
+* **Bitcoin gains utility.** Every verification draws fresh on-chain demand, accelerating adoption and fee revenue.  
 
 ---
 
-*_Explore the individual pitches above, and join us in cementing Bitcoin as the trust foundation for the next trillion-user internet._*
+### Ready to cement Bitcoin as the trust layer for the next trillion-user internet?  
+
+👉 **Contact us: founders@ochk.io** for the full deck and further details.
+
+---
 
 > “An online identity isn’t real **until it costs real Bitcoin to exist.**”  
 > — *Michael Saylor*
