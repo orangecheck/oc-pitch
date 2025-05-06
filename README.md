@@ -36,7 +36,7 @@ All OrangeCheck products run on a single bonded-identity backbone—the open-sou
 ## Why It Matters  
 
 * **Bots get priced out.** Real Bitcoin at stake makes mass fake accounts unprofitable.  
-* **Trust goes borderless.** One refundable bond unlocks sign-in, credit, and reputation everywhere.  
+* **Trust goes borderless.** One bond unlocks sign-in, credit, and reputation everywhere.  
 * **Bitcoin gains utility.** Every verification draws fresh on-chain demand, accelerating adoption and fee revenue.  
 
 ---
